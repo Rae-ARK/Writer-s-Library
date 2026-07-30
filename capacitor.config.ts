@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.yourname.webnovellibrary',
+  appId: 'com.raeark.writerslibrary',
   appName: 'Webnovel Library Manager',
   webDir: 'build'
 };
